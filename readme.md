@@ -1,4 +1,4 @@
-A minimalistic Parcel.js based Typescript project seed 2 fork.
+A minimalistic Parcel.js based TypeScript project seed 2 fork.
 Uses the `./docs` folder as an output, so the results are GitHub Pages friendly by default.
 It's an ideal starter for quick prototyping, and even for prod if You are brave enough.
 
