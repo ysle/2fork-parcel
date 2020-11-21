@@ -13,6 +13,6 @@ scripts :
 -   `npm run build` : builds a prod bundle
 -   `npm run lint` : check formatting
 
-also provides the `preversion`, `version` and `postvesion` [npm-version](https://docs.npmjs.com/cli/v6/commands/npm-version) scripts for build and deploy automatically.
+also provides the `preversion`, `version` and `postvesion` [npm-version](https://docs.npmjs.com/cli/v6/commands/npm-version) scripts for the automated build and deployment.
 
-example result via GitHub Page assigned to this folder : https://ysle.com/2fork-parcel/?adasd
+example result via GitHub Page assigned to the `./docs` folder of this repo : https://ysle.com/2fork-parcel
