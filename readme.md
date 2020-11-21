@@ -1,6 +1,7 @@
-A minimalistic Parcel.js based TypeScript project seed 2 fork.
+A minimalistic Parcel.js based TypeScript project template repository.
+
 Uses the `./docs` folder as an output, so the results are [GitHub Pages](https://pages.github.com) friendly by default.
-It's an ideal starter for quick prototyping, and even for prod if You are brave enough.
+It's an ideal starter for quick prototyping, but needs additional configuration for production ready usage.
 
 includes :
 
