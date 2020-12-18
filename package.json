@@ -14,7 +14,7 @@
 	"homepage": "https://github.com/ysle/2fork-parcel#readme",
 	"devDependencies": {
 		"parcel": "^2.0.0-beta.1",
-		"prettier": "^2.1.2"
+		"prettier": "^2.2.1"
 	},
 	"prettier": {
 		"useTabs": true,
